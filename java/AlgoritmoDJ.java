@@ -17,6 +17,7 @@ class AlgoritmoDJ{
      // AQUI EMPIEZO A MODIFICAR PROGRAMA
 
     System.out.print("Hola, es mi prueba con GITHUB");
+    System.out.print("cambios para realizar programas DJ");
     
     } 
     public static void main(String[] args) {
