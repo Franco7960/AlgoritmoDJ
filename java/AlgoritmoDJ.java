@@ -18,7 +18,8 @@ class AlgoritmoDJ{
 
     System.out.print("Hola, es mi prueba con GITHUB");
      System.out.print("Pruebas 2");
-    
+     System.out.print("Prueba1 ");
+     Syste,.out print("hola")
     
     } 
     public static void main(String[] args) {
