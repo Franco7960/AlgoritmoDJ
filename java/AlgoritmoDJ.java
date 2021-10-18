@@ -19,6 +19,7 @@ class AlgoritmoDJ{
     System.out.print("Hola, es mi prueba con GITHUB");
     System.out.print("Es la primera vez que utilizo esta aplicacion profe");
     System.out.print("pero esta facil");
+    System.out.println("cambios");
     } 
     public static void main(String[] args) {
         AlgoritmoDJ algoritmoDJ = new AlgoritmoDJ();
