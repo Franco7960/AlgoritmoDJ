@@ -15,6 +15,8 @@ class AlgoritmoDJ{
      * En este metodo se incia el algoritmo
      */
      // AQUI EMPIEZO A MODIFICAR PROGRAMA
+       System.out.println("Pruebas para subir cambios");
+
 	public  int distancia[] = new int[10];
 	public  int costo[][] = new int[10][10]; 
 	public void calc(int n,int s){
